@@ -22,3 +22,5 @@ In this user can register and apply for the quarters online.
    
    ![alt text](https://github.com/vivekkumar592/Quarter-Allotment-Portal/blob/main/Screenshot%20(322).png)
    
+   ![alt text](https://github.com/vivekkumar592/Quarter-Allotment-Portal/blob/main/Screenshot%20(323).png)
+   
